@@ -1,1 +1,1 @@
-# staticpage
+# Static site Hamza El Baz
